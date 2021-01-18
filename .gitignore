@@ -1,0 +1,6 @@
+.vscode
+.python-version
+.ipynb_checkpoints
+*.csv
+*.db
+*.parquet

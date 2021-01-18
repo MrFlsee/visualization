@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 18 17:12:35 KST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0177-148d-8455-000008301488 
+on database directory /Volumes/Developments/github/visualization/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@67424e82 
+Loaded from file:/usr/local/Cellar/apache-spark/3.0.1/libexec/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.9+11
+user.dir=/Volumes/Developments/github/visualization
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
